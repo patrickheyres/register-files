@@ -1,0 +1,96 @@
+body{
+  background-color: #FCE205;
+  background-size: cover;
+}
+
+
+/* Full-width inputs */
+input[type=text], input[type=password] {
+  width: 80%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-sizing: border-box;
+}
+
+
+/* Set a style for all buttons */
+button {
+  background-color: #04AA6D;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border-radius: 10px;
+  border: 1px solid green;
+  cursor: pointer;
+  width: 22%;
+}
+
+/* Add a hover effect for buttons */
+button:hover {
+  opacity: 0.8;
+}
+
+/* Add padding to containers */
+.container {
+  padding: 50px;
+  text-align: center;
+  border-radius: 50px;
+  background-color: #FCE205;
+  margin-left: 500px; 
+  margin-right: 500px;
+  margin-top: 42px;
+  margin-bottom: 46px;
+
+}
+
+/* Change styles for span and cancel button on extra small screens */
+
+
+.sample1{
+
+  background-color: gray;
+  font-family:"Gill Sans MT", sans-serif;
+  font-weight: 700; 
+  font-size: 33px;
+  padding: 28px;
+  margin-left: 50px;
+  margin-right:50px;
+  margin-top: 50px;
+  border-top-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+.heading{
+
+  color:black;
+  margin-left: 50px;
+  margin-right: 50px;
+  font-family: Arial;
+  font-size: 28px;
+  padding:25px;
+  background-color: #FA8128;
+  border-radius: 20px;
+}
+
+.sample2{
+
+  background-color: gray;
+  font-family: Verdana;
+  font-weight: 700; 
+  font-size: 18px;
+  padding: 28px;
+  margin-left:50px;
+  margin-right:50px;
+  margin-bottom:50px;
+  border-radius: 20px;
+}
+
+.footer{
+    text-align: right; 
+    word-spacing: 20px; 
+    padding-right: 50px;
+  }
